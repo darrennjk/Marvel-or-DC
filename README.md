@@ -11,6 +11,24 @@ To predict the universe of a hero, whether they are from Marvel or DC.
 - Decision Tree
 - Natural Language Processing (NLP)
 
+### Libraries Used
+- Numpy
+- Pandas
+- Seaborn
+- Matplotlib.pyplot
+- Wordcloud
+- Statistics
+- Scipy
+- Statsmodel
+- Sklearn
+
+### Algorithms Used
+- DecisionTreeClassifier
+- CountVectorizer
+- LinearSVC
+- CalibratedClassifierCV
+
+
 ### Key takeaways
 - You can take advantage of the different writing styles in each hero's description to predict whether they are from Marvel or DC 
 - NLP has a much higher classification accuracy than a decision tree with depth 4
@@ -23,8 +41,17 @@ To predict the universe of a hero, whether they are from Marvel or DC.
 - Learning how to apply and utilize NLP which was not taught in labs was an incredible journey
 - Obtaining outstanding results from a simplified NLP model only inspired us further to try out more advanced NLP model designs in the future!
 
+### Jupyter Notebook - SC1015_Mini_Project.ipynb
+- The code in this notebook covers the entire codebase for our project, from Data Preparation and Cleaning, Exploratory Analysis, the Machine Learning Models implemented and some improvements, as well as the meaningful findings throughout our journey.
+- It also contains statistical evaluations and analyses of the predictions computed by the models we used.
 
+### Dataset Folder
+- This contains the dataset, ‘superheroes_nlp_dataset.csv’ file, which contains an abundance of statistical information with regard to every single Superhero ever created in the comics.
 
+### Contributions
+- Clement Tan - Exploratory Data Analysis, Video, Slides & Presentation
+- Darren Ng - Data preparation, Data cleaning, Decision tree, Slides
+- Denzyl Peh - Natural Language Processing, Point Estimation, Optimal Depth
 
 ### References
 - https://www.kaggle.com/datasets/jonathanbesomi/superheroes-nlp-dataset?datasetId=633089&sortBy=voteCount
