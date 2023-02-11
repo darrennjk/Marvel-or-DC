@@ -47,7 +47,7 @@ To predict the universe of a hero, whether they are from Marvel or DC.
 
 ### Folders
 ##### SC6_Team10
-- Our presentation slides providing a summary of our journey of this project. It touches upon the reasons how we came up with our problem definition as well as how we tackle the problem and finalizing our findings from it.
+- Our presentation slides provides a summary of our journey of this project. It touches upon the reasons how we came up with our problem definition as well as how we tackle the problem and finalizing our findings from it.
 ##### Dataset Folder
 - This contains the dataset, ‘superheroes_nlp_dataset.csv’ file, which contains an abundance of statistical information with regard to every single Superhero ever created in the comics.
 
